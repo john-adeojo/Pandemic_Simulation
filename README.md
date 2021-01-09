@@ -1,2 +1,2 @@
 # Pandemic Simulator
-Simulator for COVID-19
+Simulator for pandemic
